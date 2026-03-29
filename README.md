@@ -35,37 +35,6 @@ Químico en formación y desarrollador con enfoque en sistemas embebidos y autom
 Trabajo principalmente con C para microcontroladores, TypeScript + React + Tailwind en frontend, y Python/Java/Node.js en backend.
 Me interesan las integraciones con n8n, la optimización de procesos y el desarrollo de soluciones tecnológicas aplicadas a la ciencia.
 
-<div align="center">
-
-<div>
-<img alt="Visitas" src="https://komarev.com/ghpvc/?username=triptamina-labs&label=Visitas&color=0e75b6&style=flat" />
-<img alt="Seguidores" src="https://img.shields.io/github/followers/triptamina-labs?style=flat" />
-<img alt="Stars totales" src="https://img.shields.io/github/stars/triptamina-labs?style=flat&label=Stars" />
-</div>
-
-
-<br><br>
-<div align="center">
-
-<!-- Fila 1: 50 / 50 -->
-<p>
-  <img alt="Racha (Streak)"
-       src="https://streak-stats.demolab.com?user=triptamina-labs&theme=tokyonight&hide_border=true"
-       width="49%" />
-  <img alt="Stats generales"
-       src="https://github-readme-stats.vercel.app/api?username=triptamina-labs&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"
-       width="46.5%" />
-</p>
-
-<!-- Fila 2: 75 / 25 -->
-<p>
-  <img alt="Profile Details"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triptamina-labs&theme=tokyonight"
-       width="67%" />
-  <img alt="Lenguajes más usados"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=triptamina-labs&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-       width="30.5%" />
-</p>
 
 </div>
 
