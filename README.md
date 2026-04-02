@@ -33,7 +33,8 @@ Ajusta Web/Contacto/LinkedIn si aplica.
 Químico en formación y desarrollador con enfoque en sistemas embebidos y automatización.
 **CEO & Fundador de <strong>Tripta Labs</strong>**, donde diseño hardware y firmware para equipos de laboratorio a gran escala.
 Trabajo principalmente con C para microcontroladores, TypeScript + React + Tailwind en frontend, y Python/Java/Node.js en backend.
-Me interesan las integraciones con n8n, la optimización de procesos y el desarrollo de soluciones tecnológicas aplicadas a la ciencia.
+
+
 
 
 </div>
