@@ -24,7 +24,7 @@ Ajusta Web/Contacto/LinkedIn si aplica.
 </div>
 </div>
 
-# Fabián Felipe Castellanos - Full Stack Developer
+# Felipe Castellanos - Full Stack Developer
 
 
 
