@@ -24,15 +24,15 @@ Ajusta Web/Contacto/LinkedIn si aplica.
 </div>
 </div>
 
-# Felipe Castellanos - Full Stack Developer
+# Felipe Castellanos - Químico | Full Stack Developer
 
 
 
+Entiendo las moléculas. Les escribo el firmware.  
+También la pantalla que las opera y el servidor que registra todo.
 
-
-Químico en formación y desarrollador con enfoque en sistemas embebidos y automatización.
-**CEO & Fundador de <strong>Tripta Labs</strong>**, donde diseño hardware y firmware para equipos de laboratorio a gran escala.
-Trabajo principalmente con C para microcontroladores, TypeScript + React + Tailwind en frontend, y Python/Java/Node.js en backend.
+Estudié química para entender la materia.  
+Aprendí a programar porque la materia no se controla sola.
 
 
 
