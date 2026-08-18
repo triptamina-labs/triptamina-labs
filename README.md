@@ -28,11 +28,8 @@ Ajusta Web/Contacto/LinkedIn si aplica.
 
 
 
-Entiendo las moléculas. Les escribo el firmware.  
-También la pantalla que las opera y el servidor que registra todo.
-
-Estudié química para entender la materia.  
-Aprendí a programar porque la materia no se controla sola.
+Entiendo las moléculas, les escribo el firmware.  También la pantalla que las opera y el servidor que registra todo.
+Estudié química para entender la materia, aprendí a programar porque la materia no se controla sola.
 
 
 
