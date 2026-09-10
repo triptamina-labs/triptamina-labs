@@ -28,9 +28,7 @@ Ajusta Web/Contacto/LinkedIn si aplica.
 
 
 
-Entiendo las moléculas, les escribo el firmware.  También la UI que las opera y el servidor que registra todo.
-
-Estudié química para entender la materia, aprendí a programar para controlar la materia...
+Solve et Coagula, ¡Solve et Resonā!
 
 
 
